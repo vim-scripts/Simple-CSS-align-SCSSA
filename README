@@ -1,0 +1,22 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4162
+
+Very very simple plugin which provides only one command:
+
+:SCSSA
+
+To use it, select some lines containing CSS properties, then use the command.
+It will align them. That's all :-)
+
+--- 
+
+FOR A COMPLETE DOCUMENTATION, READ THE FILE HEADER: 
+ALL IS EXPLAINED AND PROBABLY MORE UP2DATE THAN ON THIS PAGE! 
+
+--- 
+
+If you want to be sure having the last version of this plugin, check my github repository (in case of I forgot to update here): 
+https://github.com/webastien/vim/blob/master/vim/plugin/SCSSA.vim 
+
+On github, you will also find my VIm configuration. Feel free to extract parts of code you need from my sources. 
+This could be better but I use those for my daily works without problems and it will be improved over the time. 
+I always miss time to refactor and clean the code, so if you want to help, you're welcome ;-)
